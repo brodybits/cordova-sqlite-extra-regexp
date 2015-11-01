@@ -2,6 +2,8 @@
 
 ## 0.8.0-extras-pre
 
+- Support pre-populated database for Windows "Universal"
+
 ## 0.7.12-pre
 
 - Fix to Windows "Universal" version to support big integers
