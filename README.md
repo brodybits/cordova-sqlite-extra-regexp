@@ -1,4 +1,4 @@
-# Cordova/PhoneGap sqlite storage adapter
+# Cordova/PhoneGap sqlite storage with extras
 
 Native interface to sqlite in a Cordova/PhoneGap plugin for Android, iOS, Windows "Universal" (8.1), Amazon Fire-OS, and WP(7/8) with API similar to HTML5/[Web SQL API](http://www.w3.org/TR/webdatabase/).
 

@@ -1,5 +1,7 @@
 # Changes
 
+## 0.8.0-extras-pre
+
 ## 0.7.12-pre
 
 - Fix to Windows "Universal" version to support big integers
