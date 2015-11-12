@@ -1,5 +1,9 @@
 # Changes
 
+## 0.7.12-extra-regexp-pre
+
+- Support REGEXP on Android using PCRE (8.37)
+
 ## 0.7.12-pre
 
 - Fix to Windows "Universal" version to support big integers
