@@ -1,9 +1,9 @@
 {
   "name": "cordova-sqlite-extras",
-  "version": "0.8.0-extras-pre",
+  "version": "0.8.0-extra-regexp-pre",
   "description": "Native interface to SQLite for PhoneGap/Cordova",
   "cordova": {
-    "id": "cordova-sqlite-extras",
+    "id": "cordova-sqlite-extra-regexp",
     "platforms": [
       "android",
       "ios",

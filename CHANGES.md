@@ -1,7 +1,8 @@
 # Changes
 
-## 0.8.0-extras-pre
+## 0.8.0-extra-regexp-pre
 
+- Support REGEXP on Android using PCRE (8.37)
 - Support pre-populated database for Windows "Universal"
 
 ## 0.7.12-pre
